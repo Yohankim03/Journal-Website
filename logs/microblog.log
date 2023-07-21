@@ -88,3 +88,4 @@ Traceback (most recent call last):
     return getattr(obj, attribute)
            ^^^^^^^^^^^^^^^^^^^^^^^
 jinja2.exceptions.UndefinedError: 'user' is undefined
+2023-07-20 17:38:14,598 INFO: Microblog startup [in C:\Users\yohan\Documents\GitHub\Journal-Website\app\__init__.py:45]
